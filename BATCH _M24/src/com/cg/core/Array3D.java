@@ -1,5 +1,7 @@
 package com.cg.core;
 
+import java.util.Arrays;
+
 public class Array3D {
 
 	public static void main(String[] args) {
