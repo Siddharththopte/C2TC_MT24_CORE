@@ -30,7 +30,7 @@ public class ArrayDemo {
  boolean d= Arrays.equals(sid1, sid2);
 
 
-System.out.println(" when two arrays is Equal" +d);
+System.out.println(" Are the two arrays Equal" +d);
 
 	}
 
