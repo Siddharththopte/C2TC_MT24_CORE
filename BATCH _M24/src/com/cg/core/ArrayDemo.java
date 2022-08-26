@@ -28,9 +28,10 @@ public class ArrayDemo {
 		}
 			
  boolean d= Arrays.equals(sid1, sid2);
-
+ 
 
 System.out.println(" Are the two arrays Equal" +d);
+
 
 	}
 
